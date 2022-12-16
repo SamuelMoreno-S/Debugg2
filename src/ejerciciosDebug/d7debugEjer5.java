@@ -53,7 +53,7 @@ public class d7debugEjer5 {
 			System.out.print(" ");
 		for (int j=1; j<=num; j++) 
 			System.out.print("*");	
-		System.out.println();
+                System.out.println();
 	}
 
 }
